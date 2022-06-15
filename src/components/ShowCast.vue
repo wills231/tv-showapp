@@ -30,5 +30,4 @@ export default {
     box-shadow: -8px 8px 0 #d59c30c7;
     margin-bottom: 24px;
   }
-
 </style>

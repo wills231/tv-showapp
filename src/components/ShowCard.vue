@@ -21,17 +21,12 @@
 
 <script>
 export default {
-    
+
   props: {
     show: {
       type: Object,
       required: true
     },
-    
   }
 }
 </script>
-
-<style scoped lang="scss">
-
-</style>

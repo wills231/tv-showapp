@@ -1,5 +1,5 @@
 # TVshow-app
-- This project was built using the frontend weg framework Vue 3. For initial project setup Vue CLI was used.
+- This project was built using the frontend web framework Vue 3. For initial project setup Vue CLI was used.
 
 ## Scripting Languages
 - Typescript was used as a scripting language and one of the reasons was for it's ease of use in early detecting issues in the IDE.
